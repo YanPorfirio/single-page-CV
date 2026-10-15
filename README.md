@@ -1,9 +1,11 @@
 # Single-page CV
 
+https://roadmap.sh/projects/single-page-cv
+
 A one-page résumé built with HTML and CSS. No build step and no dependencies — open the file in a browser.
 
-**Project page:** [https://yanporfirio.github.io/single-page-CV/](https://yanporfirio.github.io/single-page-CV/)  
-**Repository:** [https://github.com/YanPorfirio/single-page-CV](https://github.com/YanPorfirio/single-page-CV)
+**Project page:** https://yanporfirio.github.io/single-page-CV/  
+**Repository:** https://github.com/YanPorfirio/single-page-CV
 
 The layout covers name and role, contact details, skills, education, experience, and LinkedIn / GitHub links.
 
