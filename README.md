@@ -1,6 +1,6 @@
 # Single-page CV
 
-https://roadmap.sh/projects/single-page-cv
+**Roadmap.sh:** https://roadmap.sh/projects/single-page-cv
 
 A one-page résumé built with HTML and CSS. No build step and no dependencies — open the file in a browser.
 
